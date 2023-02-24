@@ -2,4 +2,6 @@ body{
     margin: auto;
     padding: 0;
     background-color: orange ;
+    border: 20px;
+    border-color: blue;
 }
